@@ -1,0 +1,48 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: FileToFile - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x419 /fo"Debug/FileToFile.res" /d "_DEBUG" "C:\Temp\义爨5_FileMapping\WSpFileMemMappedWindow\FileToFile\FileToFile.rc"" 
+Creating temporary file "C:\DOCUME~1\Riaby\LOCALS~1\Temp\RSP96.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/FileToFile.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Temp\义爨5_FileMapping\WSpFileMemMappedWindow\FileToFile\FileToFile.cpp"
+"C:\Temp\义爨5_FileMapping\WSpFileMemMappedWindow\FileToFile\WndHandles.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Riaby\LOCALS~1\Temp\RSP96.tmp" 
+Creating temporary file "C:\DOCUME~1\Riaby\LOCALS~1\Temp\RSP97.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/FileToFile.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Temp\义爨5_FileMapping\WSpFileMemMappedWindow\FileToFile\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Riaby\LOCALS~1\Temp\RSP97.tmp" 
+Creating temporary file "C:\DOCUME~1\Riaby\LOCALS~1\Temp\RSP98.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/FileToFile.pdb" /debug /machine:I386 /out:"Debug/FileToFile.exe" /pdbtype:sept 
+".\Debug\FileToFile.obj"
+".\Debug\StdAfx.obj"
+".\Debug\WndHandles.obj"
+".\Debug\FileToFile.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\Riaby\LOCALS~1\Temp\RSP98.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+FileToFile.cpp
+WndHandles.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+FileToFile.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

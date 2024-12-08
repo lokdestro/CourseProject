@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/irina/CLionProjects/shm_client/h_client.h
+sys/types.h
+-
+sys/ipc.h
+-
+sys/sem.h
+-
+sys/shm.h
+-
+stdio.h
+-
+
+/home/irina/CLionProjects/shm_client/main.cpp
+stdio.h
+-
+string.h
+-
+iostream
+-
+h_client.h
+/home/irina/CLionProjects/shm_client/h_client.h
+

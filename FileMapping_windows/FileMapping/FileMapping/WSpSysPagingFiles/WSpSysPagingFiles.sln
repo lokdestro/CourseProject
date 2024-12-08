@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PgFlClient", "PgFlClient\PgFlClient.vcproj", "{4C5B5A7B-28F5-49BC-9D49-1CCA0B79CF92}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PgFlServer", "PgFlServer\PgFlServer.vcproj", "{F4F022B0-5D97-4FA1-BF4B-24BE0A2A1F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C5B5A7B-28F5-49BC-9D49-1CCA0B79CF92}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4C5B5A7B-28F5-49BC-9D49-1CCA0B79CF92}.Debug|Win32.Build.0 = Debug|Win32
+		{4C5B5A7B-28F5-49BC-9D49-1CCA0B79CF92}.Release|Win32.ActiveCfg = Release|Win32
+		{4C5B5A7B-28F5-49BC-9D49-1CCA0B79CF92}.Release|Win32.Build.0 = Release|Win32
+		{F4F022B0-5D97-4FA1-BF4B-24BE0A2A1F78}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F4F022B0-5D97-4FA1-BF4B-24BE0A2A1F78}.Debug|Win32.Build.0 = Debug|Win32
+		{F4F022B0-5D97-4FA1-BF4B-24BE0A2A1F78}.Release|Win32.ActiveCfg = Release|Win32
+		{F4F022B0-5D97-4FA1-BF4B-24BE0A2A1F78}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

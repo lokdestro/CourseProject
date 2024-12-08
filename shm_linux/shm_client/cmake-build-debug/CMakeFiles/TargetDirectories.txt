@@ -1,0 +1,3 @@
+/home/irina/CLionProjects/shm_client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/irina/CLionProjects/shm_client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/irina/CLionProjects/shm_client/cmake-build-debug/CMakeFiles/shm_client.dir

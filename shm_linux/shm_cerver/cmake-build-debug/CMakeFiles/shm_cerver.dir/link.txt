@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/shm_cerver.dir/main.cpp.o  -o shm_cerver 

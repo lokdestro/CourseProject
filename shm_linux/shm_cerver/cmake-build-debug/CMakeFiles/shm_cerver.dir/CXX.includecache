@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/irina/CLionProjects/shm_cerver/h_cerver.h
+sys/types.h
+-
+sys/ipc.h
+-
+sys/sem.h
+-
+sys/shm.h
+-
+stdio.h
+-
+
+/home/irina/CLionProjects/shm_cerver/main.cpp
+iostream
+-
+stdio.h
+-
+string.h
+-
+h_cerver.h
+/home/irina/CLionProjects/shm_cerver/h_cerver.h
+
